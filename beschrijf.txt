@@ -1,0 +1,18 @@
+Website Beschrijving
+
+Onderwerp en Doel
+De website, heeft als onderwerp het delen en ontdekken van mijn kennis als Developer.
+Het doel van de website is om gebruikers een platform te bieden waar ze kunnen meer over
+mij weten.
+
+Doelgroep
+De website is bedoeld voor bedrijfven van alle niveaus, die geïnteresseerd zijn in in kennis en in mijn werk.
+
+Functionele Eisen
+Om aan de functionele eisen te voldoen, zal de website de volgende functionaliteiten bevatten:
+
+Stijl / Look & Feel
+De website zal een moderne en uitnodigende uitstraling hebben met een focus op gebruiksgemak
+en visuele aantrekkelijkheid. Het kleurenpalet zal warme, uitnodigende tinten bevatten.
+De lay-out zal overzichtelijk zijn, met duidelijke navigatie-elementen en
+visuele hiërarchie om de gebruikerservaring te verbeteren.
